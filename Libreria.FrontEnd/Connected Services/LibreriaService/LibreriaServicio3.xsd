@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF.Editorial" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF.Editorial" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="https://localhost:44323/LibreriaServicio.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF" />
+  <xs:complexType name="DTOEditorialCuerpo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Sede" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOEditorialCuerpo" nillable="true" type="tns:DTOEditorialCuerpo" />
+  <xs:complexType name="DTOEdiitorialRespuesta">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cuerpo" nillable="true" type="tns:ArrayOfDTOEditorialCuerpo" />
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF" minOccurs="0" name="Resultado" nillable="true" type="q1:DTOResultado" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DTOEdiitorialRespuesta" nillable="true" type="tns:DTOEdiitorialRespuesta" />
+  <xs:complexType name="ArrayOfDTOEditorialCuerpo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DTOEditorialCuerpo" nillable="true" type="tns:DTOEditorialCuerpo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDTOEditorialCuerpo" nillable="true" type="tns:ArrayOfDTOEditorialCuerpo" />
+</xs:schema>

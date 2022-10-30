@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="https://localhost:44323/LibreriaServicio.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF.Editorial" />
+  <xs:import schemaLocation="https://localhost:44323/LibreriaServicio.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF" />
+  <xs:import schemaLocation="https://localhost:44323/LibreriaServicio.svc?xsd=xsd5" namespace="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF.Libro" />
+  <xs:element name="AgregarEditorial">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF.Editorial" minOccurs="0" name="Editorial" nillable="true" type="q1:DTOEditorialCuerpo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AgregarEditorialResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF" minOccurs="0" name="AgregarEditorialResult" nillable="true" type="q2:DTOResultado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AgregarLibro">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF.Libro" minOccurs="0" name="Libro" nillable="true" type="q3:DTOLibroCuerpo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AgregarLibroResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF" minOccurs="0" name="AgregarLibroResult" nillable="true" type="q4:DTOResultado" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerEditorial">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ObtenerEditorialResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/Libreria.Entidades.WCF.Editorial" minOccurs="0" name="ObtenerEditorialResult" nillable="true" type="q5:DTOEdiitorialRespuesta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

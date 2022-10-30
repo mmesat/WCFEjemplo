@@ -1,0 +1,16 @@
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\Libreria.Negocios.deps.json
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\Libreria.Negocios.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\Libreria.Negocios.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\HerramientasComunes.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\Libreria.Datos.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\Libreria.Entidades.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\Libreria.Datos.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\HerramientasComunes.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\bin\Debug\netstandard2.0\Libreria.Entidades.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\obj\Debug\netstandard2.0\Libreria.Negocios.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\obj\Debug\netstandard2.0\Libreria.Negocios.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\obj\Debug\netstandard2.0\Libreria.Negocios.AssemblyInfo.cs
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\obj\Debug\netstandard2.0\Libreria.Negocios.csproj.CopyComplete
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\obj\Debug\netstandard2.0\Libreria.Negocios.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\obj\Debug\netstandard2.0\Libreria.Negocios.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Negocios\obj\Debug\netstandard2.0\Libreria.Negocios.csproj.CoreCompileInputs.cache

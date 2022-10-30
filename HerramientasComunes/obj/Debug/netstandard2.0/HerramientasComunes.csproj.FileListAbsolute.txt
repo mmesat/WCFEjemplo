@@ -1,0 +1,9 @@
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\bin\Debug\netstandard2.0\HerramientasComunes.deps.json
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\bin\Debug\netstandard2.0\HerramientasComunes.dll
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\obj\Debug\netstandard2.0\HerramientasComunes.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\obj\Debug\netstandard2.0\HerramientasComunes.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\obj\Debug\netstandard2.0\HerramientasComunes.AssemblyInfo.cs
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\bin\Debug\netstandard2.0\HerramientasComunes.pdb
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\obj\Debug\netstandard2.0\HerramientasComunes.dll
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\obj\Debug\netstandard2.0\HerramientasComunes.pdb
+C:\Users\migue\source\repos\Libreria\HerramientasComunes\obj\Debug\netstandard2.0\HerramientasComunes.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\bin\Debug\netstandard2.0\Libreria.Datos.deps.json
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\bin\Debug\netstandard2.0\Libreria.Datos.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\obj\Debug\netstandard2.0\Libreria.Datos.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\obj\Debug\netstandard2.0\Libreria.Datos.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\obj\Debug\netstandard2.0\Libreria.Datos.AssemblyInfo.cs
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\bin\Debug\netstandard2.0\Libreria.Datos.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\obj\Debug\netstandard2.0\Libreria.Datos.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\obj\Debug\netstandard2.0\Libreria.Datos.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\bin\Debug\netstandard2.0\Libreria.Entidades.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\bin\Debug\netstandard2.0\HerramientasComunes.dll
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\bin\Debug\netstandard2.0\HerramientasComunes.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\bin\Debug\netstandard2.0\Libreria.Entidades.pdb
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\obj\Debug\netstandard2.0\Libreria.Datos.csproj.CopyComplete
+C:\Users\migue\source\repos\Libreria\Libreria.Datos\obj\Debug\netstandard2.0\Libreria.Datos.csproj.CoreCompileInputs.cache
